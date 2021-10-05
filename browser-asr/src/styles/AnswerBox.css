@@ -1,0 +1,39 @@
+.answerbox-answering-wrapper {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.answerbox-toggle-wrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.answerbox-toggle-content {
+    margin-left: 1rem;
+}
+
+.answerbox-toggle-content-2 {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+}
+
+.answerbox-textbox {
+    margin-bottom: 0;
+}
+
+.answerbox-textbox-text {
+    font-size: 1.5rem;
+}
+
+.answerbox-button {
+    background-color: #6287F7;
+    color: white;
+    padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+    border-radius: 0.5rem;
+    margin-left: 0.75rem;
+    font-size: 1.25rem;
+    cursor: pointer;
+}
