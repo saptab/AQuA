@@ -1,6 +1,6 @@
 # AQuA
 
-AQuA (*/aqua/*, **A**utomated speech recognition in **Q****u**estion **A**nswering) is an interactive interface for pursuing question answering research including data collection based on audio files generated from the [QANTA QA dataset](https://s3-us-west-2.amazonaws.com/pinafore-us-west-2/qanta-jmlr-datasets/qanta.train.2018.04.18.json).
+AQuA (*/aqua/*, **A**utomated speech recognition in **Q** **u**estion **A**nswering) is an interactive interface for pursuing question answering research including data collection based on audio files generated from the [QANTA QA dataset](https://s3-us-west-2.amazonaws.com/pinafore-us-west-2/qanta-jmlr-datasets/qanta.train.2018.04.18.json).
 
 # Front-end
 
