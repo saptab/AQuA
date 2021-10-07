@@ -276,7 +276,9 @@ function Game() {
 
     const answeredIncorrectlyListener = (data) => {
       var video = document.getElementById("hls");
-      video.play();
+      if(state.buzzTime > gameSettings.post_buzz_time) {
+        video.play();
+      }
       console.log(data);
       // this.setBuzzTime(time);
       // TODO correct animation
